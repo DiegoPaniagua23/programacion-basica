@@ -27,5 +27,6 @@ int main (void)
 	// Realizar la suma de los dos números
     printf("\nSe efectuara la suma de estos dos numeros, el resultado es: "); 
     suma = (float)numEntero + (float)numDecimal; 
-    printf("%f\n", suma); 
+    printf("%f\n", suma);
+	return 0; 
 }
