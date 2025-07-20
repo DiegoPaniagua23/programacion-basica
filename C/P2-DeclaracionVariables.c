@@ -9,8 +9,8 @@
 #include <stdio.h> 
 
 // Funcion principal del programa
-void main (void) 
-{ 
+int main(void) 
+{
 	// Declaracion de variables 
 	int num1 = 0;
 	int num2 = 0; 
@@ -35,4 +35,5 @@ void main (void)
 	printf("Valor flotante %f\n",num4); 
 	printf("Valor flotante con dos decimales %.2f\n",num3);
 	printf("Valor flotante con tres decimales %.3f\n",num4);
- } 
+	return 0;
+}
