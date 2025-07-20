@@ -35,5 +35,6 @@ int main (void)
 	printf ("\n\tResta = %d", resta); 
 	printf ("\n\tMultiplicacion = %d", multiplicacion); 
 	printf ("\n\tDivision = %f", division);
-	printf("\n************************************************");   
+	printf("\n************************************************");
+	return 0;   
 }
