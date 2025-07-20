@@ -20,4 +20,5 @@ int main (void)
 	printf("Introduce un valor decimal: "); 
 	scanf("%f", &valorDecimal); // Leer un valor decimal
 	printf("El valor ingresado fue: %f\n", valorDecimal);
+	return 0;
 }
