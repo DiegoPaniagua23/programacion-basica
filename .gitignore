@@ -10,3 +10,7 @@ env/
 *.o
 *.out
 *.exe
+
+# VSCode
+.vscode/
+.history/
