@@ -25,7 +25,7 @@ void main (void)
 	num3 = 3.1416;  
 	num4 = 9.826587; 
 
-	// Vamos a imprimir los valores de num1 y num2 
+	// Vamos a imprimir los valores de num1, num2 y su suma 
 	printf("%d\n",num1); 
 	printf("%d\n",num2); 
 	printf("Suma de num1 y num2: %d\n", suma);
